@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Meu primeiro site</title>
+</head>
+<body>
+<h1>Olá, Mundo!</h1>
+<img src="https://img.olhardigital.com.br/wp-content/uploads/2022/12/Terra-1024x576.jpg" width="350" height="230">
+<br><iframe width="350" height="230" src="https://www.youtube.com/embed/35I1Jekc0IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
